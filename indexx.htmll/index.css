@@ -1,0 +1,30 @@
+*{
+    border: 1px solid block;
+    font-family: 'nuntio',sans-serif;
+}
+h1
+{
+    text-align:center;
+    margin: 20px;
+    padding:50px;
+    text-decoration:underline;
+    text-transform: capitalize;
+    text-decoration-color: brown;
+    background:radial-gradient(red,blue,yellow,green);
+}
+p
+{
+    text-transform:lowercase;
+}
+ *Menu {
+    display: inline-table;
+ }
+ .Menu
+ {
+    float:left;
+ }
+ a
+ {background-color:aqua;
+text-decoration:none;
+ }
+
